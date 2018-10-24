@@ -67,7 +67,7 @@ A 16-week intensive development bootcamp, focusing on :
 ## Experience
 
 **Notonthehighstreet.com** (Feb '17 - Oct '18)    
-*Finance assistinant dealing with both payables and receivables*  
+*Finance assistant dealing with both payables and receivables*  
 
 **TK Maxx** (Jun '13 - Jan '17)   
 *Sales associate*  
