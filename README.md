@@ -6,7 +6,7 @@ I am an energetic and ambitious **student at Makers Academy**, looking for a rol
 
 Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me empathise with the view from customers, shareholders and clients.
 
-**Tech Skills** : Ruby
+**Tech Skills** : Ruby, Git
 
 ## Projects
 
