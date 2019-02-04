@@ -6,7 +6,7 @@ I am an energetic and ambitious **student at Makers Academy**, looking for a rol
 
 Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me empathise with the view from customers, shareholders and clients.
 
-**Tech Skills** : Ruby, Git
+**Tech Skills** : Ruby, Ruby on Rails, Git, Javascript, HTML, CSS, Sass, React, node.js, express, 
 
 ## Projects
 
@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/AsadK47?tab=repositories
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| A | B | C |
+| Jaidbook  | A facebook clone made in rails | Ruby, Ruby on Rails, Rspec, Capybara |
 | 1 | 2 | 3 |
 | X | Y | Z |
 
@@ -57,7 +57,7 @@ A 16-week intensive development bootcamp, focusing on :
 - 2:1
 - Additional modules in Auditing, Law and Statistics
 - Head of Staffing for Emmanuel College May Ball 2013
-- Awarded £1,000 for acheiving one of the highest in 1st year
+- Awarded £1,000 in 1st year for achieving a score in the 95th percentile 
 
 #### Harris Academy Merton, London (Sep '05 - Aug '12)
 
