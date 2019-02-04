@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/AsadK47?tab=repositories
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| Jaidbook  | A facebook clone made in rails | Ruby, Ruby on Rails, Rspec, Capybara |
+| [Jaidbook](https://github.com/AsadK47/Jaidbook)  | A facebook clone made in rails | Ruby, Ruby on Rails, Rspec, Capybara |
 | 1 | 2 | 3 |
 | X | Y | Z |
 
