@@ -14,11 +14,13 @@ For a complete list, see my [GitHub](https://github.com/AsadK47?tab=repositories
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Jaidbook](https://github.com/AsadK47/Jaidbook)  | A facebook clone made in rails | Ruby, Ruby on Rails, Rspec, Capybara |
-| 1 | 2 | 3 |
-| X | Y | Z |
+| [Jaidbook](https://github.com/AsadK47/Jaidbook)  | A facebook clone made in rails | Ruby, Ruby on Rails, Rspec, Capybara, Travis, [Heroku](https://jaidbook.herokuapp.com/) |
+| [Thermostat](https://github.com/AsadK47/Thermostat) | A thermostat application made to test javascript  | Javascript, Jasmine |
+| [Meet and Eat](https://github.com/AsadK47/Meet-and-Eat) | A fun application made to have lunch with friends | Ruby, Ruby on Rails, Rspec, Capybara, Ruby Gems: (factory_bot, devise, simplecov, etc), Javascript, HTML, CSS, Sass, Travis, [Heroku](https://meet-andeat.herokuapp.com/) |
 
 ## Skills
+
+Apart from the vast amount of technical skills I have acquired at makers, I have also improved my ability to learn new technologies and concepts.
 
 #### Passionate coder
 
