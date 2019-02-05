@@ -20,19 +20,19 @@ For a complete list, see my [GitHub](https://github.com/AsadK47?tab=repositories
 
 ## Skills
 
-Apart from the vast amount of technical skills I have acquired at makers, I have also improved my ability to learn new technologies and concepts.
+Apart from the vast amount of technical skills I have acquired at makers, I have also improved my ability to learn new technologies and concepts. I have learned how to adapt to an unknown environment more than once and tested my skills by overcoming seemingly impossible obstacles regularly. 
 
 #### Passionate coder
 
-I have always had a passion for everything technology and mathematics . It is my early love of games and computers which jumpstarted this but also left me a thirst for knowledge of how they worked. I eventually found out that everything from the most basic of phones to multi-million pound rockets run on this. Once I digged in and got some hands on experience, I absolutely fell in love because of how logical and neat everything works together. It is the reason applied for the once in a lifetime opportunity at Makers Academy and started my journey for finally making my hobby my career.
+I have always had a passion for everything technology and mathematics . It is my early love of games and computers which jumpstarted this but also left me a thirst for knowledge of how they worked. Once I digged in and got some hands on experience, I absolutely fell in love with coding because of how logical and neatly everything works together. It is the reason applied for the once in a lifetime opportunity at Makers Academy and started my journey of finally making my passion my career.
 
 #### Thrives under pressure
 
-Everyone who's been through can tell you that working and studying can be a difficult to juggle, especially when you mix in your social life. However, I felt myself more than up to task during my time at university and this was again iterated when completing group [projects](#projects), I feel as if I always thrived when working under pressure. It has allowed me hone my ability to focus on a single task and do it well before moving on which has proved beneficial in both my professional and personal life time and time again.
+Everyone who's been through the journey can tell you that working and studying can be a difficult to juggle, especially when you mix in your social life. However, I felt myself more than up to task during my time at university and this was again iterated when completing group [projects](#projects), where I feel as if I always thrive while working under pressure. It has allowed me hone my ability to focus on a single task and do it well before moving on which has proved beneficial in both my professional and personal life time and time again.
 
 #### Excellent communicator
 
-During my time at Notonthehighstreet.com I had to overcome several challenges which drastically improved my communication skills. I was lucky to have had this opportunity given to me so early as it helped me to adapt my current style of speech and manner to be able to deal with both clients within and outside of the business.
+During my time at Notonthehighstreet.com and makers I had to overcome several challenges which drastically improved my communication skills, especially during group projects where tensions can rise due to pressure. I was lucky to have had this opportunity given to me so early as it helped me to adapt my current style of speech and manner to be able to deal with both clients within and outside of the business.
 
 #### Analytical thinker
 
