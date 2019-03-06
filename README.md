@@ -2,11 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](www.linkedin.com/in/asad-khan-b1924859)
 
-I am an energetic and ambitious **student at Makers Academy**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
+A recent graduate from **Makers Academy**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
-Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me empathise with the view from customers, shareholders and clients.
+Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me to empathise from a customer, shareholders and clients viewpoint.
 
-**Tech Skills** : Ruby, Ruby on Rails, Git, Javascript, HTML, CSS, Sass, React, node.js, express, 
+**Tech Skills** : Ruby, Ruby on Rails, Git, Javascript, HTML, CSS, Sass, React, node.js, express, Jasmine, Capybara, RSpec 
 
 ## Projects
 
