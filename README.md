@@ -4,9 +4,9 @@
 
 A recent graduate from **Makers Academy**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
-Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me to empathise from a customer, shareholders and clients viewpoint.
+Previously working in finance and retail has left me with the ability to a view a company from a fiscal perspective and allows me to empathise from a customer, shareholders and client's viewpoint.
 
-**Tech Skills** : Ruby, Ruby on Rails, Git, Javascript, HTML, CSS, Sass, React, node.js, express, Jasmine, Capybara, RSpec 
+**Tech Skills**: Ruby, Ruby on Rails, Git, Javascript, HTML, CSS, Sass, React, node.js, express, Jasmine, Capybara, RSpec 
 
 ## Projects
 
@@ -24,7 +24,7 @@ Apart from the vast amount of technical skills I have acquired at makers, I have
 
 #### Passionate coder
 
-I have always had a passion for everything technology and mathematics . It is my early love of games and computers which jumpstarted this but also left me a thirst for knowledge of how they worked. Once I digged in and got some hands on experience, I absolutely fell in love with coding because of how logical and neatly everything works together. It is the reason applied for the once in a lifetime opportunity at Makers Academy and started my journey of finally making my passion my career.
+I have always had a passion for everything technology and mathematics. It is my early love of games and computers which jumpstarted this but also left me a thirst for knowledge of how they worked. Once I got stuck in with some hands on experience, I absolutely fell in love with coding because of how logical and neatly everything works together. It is the reason applied for the once in a lifetime opportunity at Makers Academy and started my journey of finally making my passion my career.
 
 #### Thrives under pressure
 
@@ -40,13 +40,13 @@ In my role at Notonthehighstreet.com I was tasked with reducing the bad debt (mo
 
 #### Additional skills
 
- - Methodologies : Agile, XP, Test Driven Development 
+ - Methodologies: Agile, XP, Test Driven Development 
 
 ## Education
 
 #### Makers Academy (Oct '18 - Feb '19)
 
-A 16-week intensive development bootcamp, focusing on :
+A 16-week intensive development boot camp, focusing on:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -63,7 +63,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 #### Harris Academy Merton, London (Sep '05 - Aug '12)
 
-- A Levels : Business: A, Mathematics: C, Information and technology: C
+- A Levels: Business: A, Mathematics: C, Information and technology: C
 - 12 GCSE's Including A in Math and 2 B's in Science and English
 
 ## Experience
@@ -77,4 +77,4 @@ A 16-week intensive development bootcamp, focusing on :
 ## Hobbies and Interests
 - **Gym** : I like to go to the gym to stay fit and healthy.
 - **Gaming** : I love playing all sorts of games, whether it be video or sports
-- **Climbing** : I enjoy going climbing every monday with the students from Makers.
+- **Climbing** : I enjoy going climbing every Monday with the students from Makers.
