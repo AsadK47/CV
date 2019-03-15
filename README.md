@@ -1,6 +1,6 @@
 ## Asad Khan
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](www.linkedin.com/in/asad-khan-b1924859)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/asad-khan-b1924859)
 
 A recent graduate from **Makers Academy**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
